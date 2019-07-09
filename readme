@@ -19,5 +19,5 @@ https://customerapi-246115.appspot.com/fetchcustomersbyid/21
 output
 1)hello world
 2)list of customers.
-3)list of customers whithout the id which is sent i,e if we send 21 then remaining records other than that is retrevied.
-Here with urgency i have just implemented reverse.
+3)List of customers with the id is retrevied if you use the folder app suppose if you use the zipped folder you can get the records
+without the sent id.
