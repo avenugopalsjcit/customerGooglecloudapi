@@ -1,0 +1,15 @@
+uploaded api which is hosted in gcloud and nosql which is mongodb.
+1)to run this app down load and unzip and open the folder in visualstudiocode.
+2)open terminal in the same window and run command npm install
+3)if their is no error run command node index.js
+4) browse the app is browser i,e localhost
+5) you will see hello world
+6) run the url http://localhost/api/fetchcustomers you can see the result of data i,e get customers
+7)run the url http://localhost/fetchcustomersbyid/21   you will see less records which filters the records i,e getcustomer based on id.
+
+
+If you want to see the same in hosted environment i,e gcloud just browse the below url and see the outputs.
+
+https://customerapi-246115.appspot.com/
+https://customerapi-246115.appspot.com/api/fetchcustomers
+https://customerapi-246115.appspot.com/fetchcustomersbyid/21
