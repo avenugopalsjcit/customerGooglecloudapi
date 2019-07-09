@@ -15,3 +15,8 @@ If you want to see the same in hosted environment i,e gcloud just browse the bel
 https://customerapi-246115.appspot.com/
 https://customerapi-246115.appspot.com/api/fetchcustomers
 https://customerapi-246115.appspot.com/fetchcustomersbyid/21
+
+output
+1)hello world
+2)list of customers.
+3)list of customers whithout the id which is sent i,e if we send 21 then remaining records other than that is sent. Here with urgency i have just implemented reverse.
