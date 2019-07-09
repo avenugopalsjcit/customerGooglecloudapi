@@ -1,3 +1,5 @@
+Application is developed using nodejs and mongodb.
+nodejs is hosted in googlecloud and mongodb in googleatlas
 uploaded api which is hosted in gcloud and nosql which is mongodb.
 1)to run this app down load and unzip and open the folder in visualstudiocode.
 2)open terminal in the same window and run command npm install
